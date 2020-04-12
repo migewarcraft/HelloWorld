@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c6a6a0a-e981-4ce2-abe8-5347ba3c630b" name="默认更改列表" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="8c6a6a0a-e981-4ce2-abe8-5347ba3c630b" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/com/suzhou/demo/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,28 +16,33 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Z4j7keZRsrOBG2nW0JoohuuzNV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 7.0.761" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.761" ALTERNATIVE_JRE_ENABLED="false">
@@ -235,6 +245,18 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -246,10 +268,52 @@
       <option name="presentableId" value="Default" />
       <updated>1584105094856</updated>
       <workItem from="1584105099054" duration="1102000" />
+      <workItem from="1586621793516" duration="1656000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="0" key="CommitChangelistDialog2" timestamp="1586659527837">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="240" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586659527837" />
+    <state x="24" y="43" key="MergeDialog" timestamp="1586659258356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="24" y="43" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586659258356" />
+    <state x="282" y="157" key="MultipleFileMergeDialog" timestamp="1586659258356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="282" y="157" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586659258356" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1586659546415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586659546415" />
+    <state x="467" y="154" key="git4idea.merge.GitMergeDialog" timestamp="1586659329746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="467" y="154" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1586659329746" />
+    <state x="381" y="154" key="git4idea.merge.GitPullDialog" timestamp="1586657063917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="381" y="154" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1586657063917" />
+    <state x="336" y="210" key="git4idea.ui.GitUnstashDialog" timestamp="1586659307532">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="336" y="210" key="git4idea.ui.GitUnstashDialog/0.0.1366.728@0.0.1366.728" timestamp="1586659307532" />
   </component>
 </project>
